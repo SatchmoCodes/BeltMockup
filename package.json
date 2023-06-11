@@ -1,8 +1,8 @@
 {
-  "name": "reactbelt",
+  "homepage": "http://satchmocodes.github.io/BeltMockup",
+  "name": "BeltMockup",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://satchmocodes.github.io/BeltMockup",
   "type": "module",
   "scripts": {
     "dev": "vite",
