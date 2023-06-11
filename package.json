@@ -2,6 +2,7 @@
   "name": "reactbelt",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://satchmocodes.github.io/BeltMockup",
   "type": "module",
   "scripts": {
     "dev": "vite",
